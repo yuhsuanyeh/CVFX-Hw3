@@ -8,4 +8,4 @@
 4.  30% (Assistant) 
 5.  20% (Mutual evaluation)
 
-# CVFX-Hw3
+## Generate images with GANPaint
