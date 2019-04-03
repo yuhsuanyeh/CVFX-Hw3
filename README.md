@@ -18,19 +18,20 @@
 ## 2. Dissect GAN model and analyze
 We dissect our GAN model which is trained on LSUN livingroom dataset. Here we show some dissecting examples:
 
-### ceiling 
+### Ceiling 
 <img src='fig2/hw3-1.png'>
 
-### sofa
+### Sofa
 <img src='fig2/hw3-2.png'>
 
-### window
+### Window
 <img src='fig2/hw3-3.png'>
 
 GAN dissection can automatically find the corresponding feature maps of certain labels. The area of yellow circles indicates that the feature maps are similar.
 
 However, failures also happen frequently. We also show some failure case as the following figures:
 
+### Chair
 <img src='fig2/hw3-fail.png'>
 
 ## 3. Compare with other method 
