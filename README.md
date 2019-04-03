@@ -21,6 +21,10 @@ We dissect our GAN model which is trained on LSUN livingroom dataset. Here we sh
 
 GAN dissection can automatically find the corresponding feature maps of certain labels. The area of yellow circles indicates that the feature maps are similar.
 
+However, failures also happen frequently. We also show some failure case as the following figures:
+
+
+
 ## 3. Compare with other method 
 
 * Globally and Locally Consistent Image Completion [method1]
