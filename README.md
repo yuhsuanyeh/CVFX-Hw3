@@ -36,11 +36,11 @@ However, failures also happen frequently. We also show some failure case as the 
 
 ## 3. Compare with other method 
 
-* Globally and Locally Consistent Image Completion [[gihub]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
+* Globally and Locally Consistent Image Completion [method1]
 
-* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[github]](https://github.com/knazeri/edge-connect)
+* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [method2]
 
-* Generative Image Inpainting with Contextual Attention [[github]](https://github.com/JiahuiYu/generative_inpainting)
+* Generative Image Inpainting with Contextual Attention [method3]
 
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
@@ -48,3 +48,7 @@ However, failures also happen frequently. We also show some failure case as the 
 |**Sample_2**|<img src='fig_gif/method1/g.gif' width="600">|<img src='fig_gif/method2/g.gif' width="600">|<img src='fig_gif/method3/g.gif' width="600">|
 |**Sample_3**|<img src='fig_gif/method1/m.gif' width="600">|<img src='fig_gif/method2/m.gif' width="600">|<img src='fig_gif/method3/m.gif' width="600">|
 |**Sample_4**|<img src='fig_gif/method1/re_f.gif' width="600">|<img src='fig_gif/method2/re_f.gif' width="600">|<img src='fig_gif/method3/re_f_1.gif' width="600">|
+|**Sample_5**|<img src='fig_gif/method1/re_f2.gif' width="600">|<img src='fig_gif/method2/re_f2.gif' width="600">|<img src='fig_gif/method3/re_f_2.gif' width="600">|
+|**Sample_6**|<img src='fig_gif/method1/re_f3.gif' width="600">|<img src='fig_gif/method2/re_f3.gif' width="600">|<img src='fig_gif/method3/re_f_3.gif' width="600">|
+|**Sample_7**|<img src='fig_gif/method1/re_f4.gif' width="600">|<img src='fig_gif/method2/re_f4.gif' width="600">|<img src='fig_gif/method3/re_f_4.gif' width="600">|
+
