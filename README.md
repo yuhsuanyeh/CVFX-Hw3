@@ -36,11 +36,11 @@ However, failures also happen frequently. We also show some failure case as the 
 
 ## 3. Compare with other method 
 
-* Globally and Locally Consistent Image Completion [method1]
+* Globally and Locally Consistent Image Completion [[gihub]](https://github.com/satoshiiizuka/siggraph2017_inpainting)
 
-* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [method2]
+* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[github]](https://github.com/knazeri/edge-connect)
 
-* Generative Image Inpainting with Contextual Attention [method3]
+* Generative Image Inpainting with Contextual Attention [[github]](https://github.com/JiahuiYu/generative_inpainting)
 
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
