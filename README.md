@@ -27,7 +27,7 @@
 
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
-|**Example 1**|<img src='fig_gif/method1/cat.gif' width="600">|<img src='fig_gif/method2/cat.gif' width="600">|<img src='fig_gif/method3/new_cat.gif' width="600">|
-|**Example 2**|<img src='fig_gif/method1/g.gif' width="600">|<img src='fig_gif/method2/g.gif' width="600">|<img src='fig_gif/method3/g.gif' width="600">|
-|**Example 3**|<img src='fig_gif/method1/m.gif' width="600">|<img src='fig_gif/method2/m.gif' width="600">|<img src='fig_gif/method3/m.gif' width="600">|
-|**Example 4**|<img src='fig_gif/method1/re_f.gif' width="600">|<img src='fig_gif/method2/re_f.gif' width="600">|<img src='fig_gif/method3/re_f_1.gif' width="600">|
+|**Ex 1**|<img src='fig_gif/method1/cat.gif' width="600">|<img src='fig_gif/method2/cat.gif' width="600">|<img src='fig_gif/method3/new_cat.gif' width="600">|
+|**Ex 2**|<img src='fig_gif/method1/g.gif' width="600">|<img src='fig_gif/method2/g.gif' width="600">|<img src='fig_gif/method3/g.gif' width="600">|
+|**Ex 3**|<img src='fig_gif/method1/m.gif' width="600">|<img src='fig_gif/method2/m.gif' width="600">|<img src='fig_gif/method3/m.gif' width="600">|
+|**Ex 4**|<img src='fig_gif/method1/re_f.gif' width="600">|<img src='fig_gif/method2/re_f.gif' width="600">|<img src='fig_gif/method3/re_f_1.gif' width="600">|
