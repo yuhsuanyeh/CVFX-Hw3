@@ -44,6 +44,8 @@ However, failures also happen frequently. We also show some failure case as the 
 
 We compare three generative inpaiting methods. For each image, we crop a rectangle and fill it with white color. For clearer visualization, we compress the results as gif animation. The display order is the original image, cropped image, and inpainted image, respectively.
 
+In general, the three methods can perform well on the grass
+
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
 |**Sample_1**|<img src='fig_gif/method1/cat.gif' width="600">|<img src='fig_gif/method2/cat.gif' width="600">|<img src='fig_gif/method3/new_cat.gif' width="600">|
