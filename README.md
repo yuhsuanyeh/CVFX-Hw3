@@ -18,12 +18,16 @@
 ## 2. Dissect GAN model and analyze
 
 ## 3. Compare with other method 
-#Globally and Locally Consistent Image Completion
 
-#EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+# Globally and Locally Consistent Image Completion [method1]
 
-#Generative Image Inpainting with Contextual Attention
+# EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [method2]
+
+# Generative Image Inpainting with Contextual Attention [method3]
 
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
-|**example 1**||||
+|**Example 1**|<img src='fig_gif/method1/cat.gif' width="600">|<img src='fig_gif/method2/cat.gif' width="600">|<img src='fig_gif/method3/new_cat.gif' width="600">|
+|**Example 2**|<img src='fig_gif/method1/g.gif' width="600">|<img src='fig_gif/method2/g.gif' width="600">|<img src='fig_gif/method3/g.gif' width="600">|
+|**Example 3**|<img src='fig_gif/method1/m.gif' width="600">|<img src='fig_gif/method2/m.gif' width="600">|<img src='fig_gif/method3/m.gif' width="600">|
+|**Example 4**|<img src='fig_gif/method1/re_f.gif' width="600">|<img src='fig_gif/method2/re_f.gif' width="600">|<img src='fig_gif/method3/re_f_1.gif' width="600">|
