@@ -16,6 +16,10 @@
 |**Example 3**|<img src='fig1/3-1.png'>|<img src='fig1/3-2.png'>|
 
 ## 2. Dissect GAN model and analyze
+We dissect our GAN model which is trained on LSUN livingroom dataset. Here we show some dissecting examples:
+
+
+GAN dissection can automatically find the corresponding feature maps of certain labels. The area of yellow circles indicates that the feature maps are similar.
 
 ## 3. Compare with other method 
 
