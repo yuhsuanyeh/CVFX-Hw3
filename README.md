@@ -44,7 +44,8 @@ However, failures also happen frequently. We also show some failure case as the 
 
 We compare three generative inpaiting methods. For each image, we crop a rectangle and fill it with white color. For clearer visualization, we compress the results as gif animation. The display order is the original image, cropped image, and inpainted image, respectively.
 
-In general, method 2 usually creates blurred result, while method 3 usually creates most photorealistic result. The three methods perform well on the grass and leaf, but method 1 performs best on the cat example.
+In general, method 2 usually creates blurred result, while method 3 usually creates most photorealistic result. The three methods perform well on the grass(sample_2 and sample_3) and leaf(sample_5 ~ sample_7). On the other hand, the three methods are all failed in flower(sample_4). 
+By the way, method 1 performs best on the cat(sample_1) example.
 
 |Method|Globally and Locally Consistent Image Completion|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning|Generative Image Inpainting with Contextual Attention|
 |-----------|------------|-----------|--------------|
@@ -55,4 +56,3 @@ In general, method 2 usually creates blurred result, while method 3 usually crea
 |**Sample_5**|<img src='fig_gif/method1/re_f2.gif' width="600">|<img src='fig_gif/method2/re_f2.gif' width="600">|<img src='fig_gif/method3/re_f_2.gif' width="600">|
 |**Sample_6**|<img src='fig_gif/method1/re_f3.gif' width="600">|<img src='fig_gif/method2/re_f3.gif' width="600">|<img src='fig_gif/method3/re_f_3.gif' width="600">|
 |**Sample_7**|<img src='fig_gif/method1/re_f4.gif' width="600">|<img src='fig_gif/method2/re_f4.gif' width="600">|<img src='fig_gif/method3/re_f_4.gif' width="600">|
-
