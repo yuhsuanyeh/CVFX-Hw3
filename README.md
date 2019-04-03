@@ -36,11 +36,11 @@ However, failures also happen frequently. We also show some failure case as the 
 
 ## 3. Compare with other method 
 
-* Globally and Locally Consistent Image Completion [method1]
+* [Globally and Locally Consistent Image Completion](https://github.com/satoshiiizuka/siggraph2017_inpainting) [method1]
 
-* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [method2]
+* [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://github.com/knazeri/edge-connect) [method2]
 
-* Generative Image Inpainting with Contextual Attention [method3]
+* [Generative Image Inpainting with Contextual Attention](https://github.com/JiahuiYu/generative_inpainting) [method3]
 
 We compare three generative inpaiting methods. For each image, we crop a rectangle and fill it with white color. For clearer visualization, we compress the results as gif animation. The display order is the original image, cropped image, and inpainted image, respectively.
 
